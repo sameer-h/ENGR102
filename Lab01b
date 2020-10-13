@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Aug 28 14:50:10 2019
+
+@author: sameerhussain
+"""
+
+amperes     =   5.0
+
+ohms        =   20.0
+
+voltage  = amperes * ohms
+
+print('The voltage from ' ,amperes, 'amperes and ' , ohms, 'ohms is ' , voltage, ' volts')
+
+
+
+
+
